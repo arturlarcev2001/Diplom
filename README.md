@@ -1,6 +1,6 @@
 # Дипломная работа Python
 
--------------Django-----------------
+# Django
 django-blog - Простой блог на Django
 ### Зависимости:
 ```
@@ -14,7 +14,7 @@ typing_extensions==4.12.2
 python manage.py runserver
 ```
 
-------------Flask------------------
+# Flask
 flask-blog - Простой блог на Flask
 ### Зависимости:
 ```
@@ -42,7 +42,7 @@ zipp==3.20.2
 python app.py
 ```
 
---------------FastAPI------------------
+# FastAPI
 fastapi-blog - Простой блог на FastAPI
 ### Зависимости:
 ```
