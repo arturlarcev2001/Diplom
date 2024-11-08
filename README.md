@@ -1,5 +1,4 @@
-# python-blog
-Дипломная работа Python
+# Дипломная работа Python
 
 django-blog - Простой блог на Django
 ### Зависимости:
